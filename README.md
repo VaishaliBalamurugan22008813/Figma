@@ -34,100 +34,109 @@ Figma
 ## code:
 ```
 /* Home Page */
+
+
 position: relative;
 width: 360px;
 height: 640px;
-background: #FF0808;
+background: #FF30C5;
 
 /* Login Page */
+
+
 position: relative;
 width: 360px;
 height: 640px;
-background: #FFF50F;
+background: #78F6FE;
 
 /* Saveetha Engineering College */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 13px;
+width: 306px;
+height: 56px;
+left: 27px;
+top: 35px;
+
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
+color: #080404;
+border: 1px solid #000000;
 
 /* DEPARTMENTS */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 247px;
+width: 299px;
+height: 54px;
+left: 34px;
+top: 266px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
+color: #150101;
 
-/* AI-ML */
+/* AI - ML */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 317px;
+width: 282px;
+height: 53px;
+left: 37px;
+top: 336px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
+color: #130101;
+
 
 /* AI-DS */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 373px;
+width: 268px;
+height: 46px;
+left: 36px;
+top: 397px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
+color: #0A0808;
 
 /* IOT */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 429px;
+width: 260px;
+height: 45px;
+left: 34px;
+top: 460px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
+color: #190000;
+
 
 /* CC */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 485px;
+width: 270px;
+height: 43px;
+left: 34px;
+top: 518px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
+color: #100101;
+
 
 /* Line 3 */
 position: absolute;
@@ -139,16 +148,16 @@ border: 4px solid #172DF5;
 
 /* Logo 3 */
 position: absolute;
-width: 105px;
-height: 96px;
-left: 127px;
-top: 117px;
-background: url(Logo.png);
-```
+width: 87px;
+height: 102px;
+left: 124px;
+top: 131px;
+background: url(logo.png);
+
 ## OUTPUT:
-![Output](./out1.png)
-![Output](./out2.png)
-![Output](./out3.png)
+![Output](./F1.png)
+![Output](./F2.png)
+![Output](./F3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
